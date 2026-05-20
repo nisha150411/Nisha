@@ -1,4 +1,4 @@
-Nisha
+
 📊 Turning Data into Insights | Excel | SQL | Power BI | Aspiring Data Analyst
 
 
